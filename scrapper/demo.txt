@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="description" content="NEW DEHLI: The Supreme Court on Thursday restrained Italian ambassadador Daniele Mancini from leaving India.  The Supreme Court also issued notice to the Italian ambassador for breach of undertaking" /><meta name="keywords" content="news" /><meta property="fb:admins" content="100001837105818" /><meta property="fb:app_id" content="107674452645178" /><meta property="og:title" content="Supreme Court restrains Italian ambassador Daniele Mancini from leaving India" /><meta property="og:type" content="article" /><meta property="og:url" content="http://articles.timesofindia.indiatimes.com/2013-03-14/india/37712121_1_naval-guards-italian-ambassador-italian-courts" /><meta property="og:image" content="http://timesofindia.indiatimes.com/photo/18966131.cms" /><meta property="og:description" content="NEW DEHLI: The Supreme Court on Thursday restrained Italian ambassadador Daniele Mancini from leaving India.  The Supreme Court also issued notice to the Italian ambassador for breach of undertaking..." />
+        <script type="text/javascript">
+        function pm_fixIEImg(img) {
+            if (navigator.userAgent.indexOf('MSIE 8') == -1 && navigator.userAgent.indexOf('MSIE 7') == -1 && navigator.userAgent.indexOf('MSIE 6') == -1) return img;
+            var parent = img.parentNode;
+            img.onerror = function() { this.parentNode.removeChild(this); }
+            img.src = 'broken';
+            return parent;
+        }
+
+        function pm_imageFailed(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-articleimage') == -1) div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_removeTextMargin(); }
+        }
+
+        function pm_imageFailedGallery(div) {
+            pm_fixIEImg(div);
+            while (div.parentNode != null && div.nodeName != 'LI') div = div.parentNode;
+            if (div != null) { div.parentNode.removeChild(div); pm_updateGallery(); }
+        }
+
+        function pm_updateGallery() {
+            if (typeof updateGallery == 'function') updateGallery();
+            else setTimeout('pm_updateGallery();', 100);
+        }
+
+        function pm_imageFailedFeatured(div) {
+            var logo = 'http://timesofindia.indiatimes.com/photo/5580817.cms'
+            if (logo != '') {
+                div.parentNode.parentNode.className = 'photowrapper photowrapper-logo';
+                div.className = 'featured-logo';
+                div.src = logo;
+                return;
+            }
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('mod-homepageimage') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_imageFailedRelatedLink(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('image') == -1) div = div.parentNode;
+            if (div != null) {
+                var pN = div.parentNode;
+                pN.removeChild(div);
+                while (pN.parentNode != null && pN.className.indexOf('image-body') == -1) pN = pN.parentNode;
+                if (pN != null) pN.className = 'text-body';
+            }
+        }
+
+        function pm_imageFailedRelatedPhoto(div) {
+            div = pm_fixIEImg(div);
+            while (div.parentNode != null && div.className.indexOf('photos') == -1) div = div.parentNode;
+            if (div != null) div.parentNode.removeChild(div);
+        }
+
+        function pm_removeTextMargin() {
+            var by = document.getElementById('mod-article-byline');
+            var tx = document.getElementById('mod-a-body-first-para');
+            if (by != null) by.style.marginRight = '0px';
+            if (tx != null) tx.style.marginRight = '0px';
+        }
+        </script>
+        <title>Supreme Court restrains Italian ambassador Daniele Mancini from leaving India - Times Of India</title><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><link rel="canonical" href="http://articles.timesofindia.indiatimes.com/2013-03-14/india/37712121_1_naval-guards-italian-ambassador-italian-courts" />
+        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <!-- Times Trends Code Part 1 - add it just under opening  <head> tag before any other javascript -->
+
+        <script language="javascript">
+            function blockError(){return true;}
+            window.onerror = blockError;
+            var dtTT_startofpage = new Date();
+            var rndtno = Math.random();
+            var timeslog_channel_url = 'articles.timesofindia.indiatimes.com';
+            document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.indiatimes.com/timeslog.dll/topcnt?CHUR=articles.timesofindia.indiatimes.com&randomno='+ rndtno +'" align="left"/>');
+        </script>
+        <noscript>
+            <img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.indiatimes.com/timeslog.dll/topcnt?CHUR=articles.timesofindia.indiatimes.com&nojs=1"/>
+        </noscript>
+        
+        <script type='text/javascript'>
+        (function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+        </script>
+
+        <script type='text/javascript'>
+        googletag.defineSlot('/7176/TOI/TOI_PerfectMarket/TOI_PerfectMarket_Home/TOI_ROS_ATF_PMKT_300', [300, 250], 'div-gpt-ad-1339494764651-0').addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+        </script><script src="/tracker.js.php?e063e5398f1cf09abe0c371c475fbbc8aa55dc8b" type="text/javascript"></script>
+        <script type="text/javascript">
+                    setCookie("pmk_tn", "ap-TOI_Blended_Ads", 3600);
+                    var sessId = getCookie("sessid");
+                    if (!sessId) {
+                        sessId = guid();
+                        setCookie("sessid", sessId, (30*60));
+                    }
+                    var uuId = getCookie("uuid");
+                    if (!uuId) {
+                        uuId = sessId;
+                        setCookie("uuid", uuId, (60*60*24*30*12*24));
+                    }
+                    var traffic_provider = getParamFromPMCookie("s");
+                    if(!traffic_provider) {
+                        traffic_provider = derive_traffic_provider();
+                        putParamIntoPMCookie("s", traffic_provider);
+                    }
+                    var traffic_type = getParamFromPMCookie("n");
+                    if(!traffic_type) {
+                        traffic_type = derive_traffic_type();
+                        putParamIntoPMCookie("n", traffic_type);
+                    }
+                    referring_domain = get_referring_domain();
+
+                    var tracSessParams = "sessid="+sessId+"&uuid="+uuId+"&s="+traffic_provider+"&n="+traffic_type+"&rd="+referring_domain;
+
+                    var query = get_query();
+                    if(query) {
+                        tracSessParams = tracSessParams + "&q=" + query;
+                    }
+                    var referring_url = get_referring_url();
+                    if(referring_url) {
+                        tracSessParams = tracSessParams + "&ru=" + encode(referring_url);
+                    }
+                    var user_agent = navigator.userAgent;
+                    if(user_agent) {
+                        tracSessParams = tracSessParams + "&ua=" + encode(user_agent);
+                    }
+                </script>
+                <link rel="stylesheet" type="text/css" href="/css/ap-TOI_Blended_Ads.css?e063e5398f1cf09abe0c371c475fbbc8aa55dc8b" media="all" /><meta property="og:site_name" content="The Times Of India" /><script type="text/javascript">function downloadJSAtOnload(){var element, js;element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=Supreme+Court+restrains+Italian+ambassador+Daniele+Mancini+from+leaving+India&u=http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2FSupreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India%2Farticleshow%2F18966112.cms%3Fintenttarget%3Dno&l=AddThis%3B&i=mod-sm-badge-top-defer&p=TimesofIndia");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/sn.php?out=js&t=Supreme+Court+restrains+Italian+ambassador+Daniele+Mancini+from+leaving+India&u=http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2FSupreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India%2Farticleshow%2F18966112.cms%3Fintenttarget%3Dno&l=Twitter_Large-Facebook_RecommendLarge-StumbleUpon_Large-&i=mod-sm-badge-defer&p=TimesofIndia");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/modal/modal.js.php?i=mod-article-image&g=false&c=37712121&j=10&p=TimesofIndia&e063e5398f1cf09abe0c371c475fbbc8aa55dc8b");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/article-image-resize-compressed.js.php?i=mod-article-image");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-lt&z=e063e5398f1cf09abe0c371c475fbbc8aa55dc8b");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-ct&z=e063e5398f1cf09abe0c371c475fbbc8aa55dc8b");document.body.appendChild(element);element=document.createElement("script");element.setAttribute("type", "text/javascript");element.setAttribute("src", "/featured-image-offset.js.php?id=mod-article-image-rt&z=e063e5398f1cf09abe0c371c475fbbc8aa55dc8b");document.body.appendChild(element);}if (window.addEventListener){window.addEventListener("load", downloadJSAtOnload, false);}else if (window.attachEvent){window.attachEvent("onload", downloadJSAtOnload);}else window.onload = downloadJSAtOnload;</script></head><body><!-- Layout starts --><div id="layout"><div id="area-top" class="area"><div id="mod-nav" class="mod-timesofindianav">
+            <script type="text/javascript">
+            function resizeNav(iframe) {
+                // set the domain to same as nav to fix cross site scripting           
+                document.domain = 'indiatimes.com'; 
+            
+                // get height of their header (drawn different heights if sub sections)
+                var iframes = document.getElementById('mod-nav').getElementsByTagName('iframe');
+                if (iframes == null || iframes.length == 0) return;
+                var header = iframes[0].contentWindow.document.getElementById('header');
+                if (header == null) return;
+                var navHeight = header.offsetHeight;
+
+                // update the iframe height
+                if (iframe.style.setAttribute) iframe.style.setAttribute('height', navHeight);
+                else iframe.style.height = navHeight + 'px';
+            }
+            </script><iframe onload="resizeNav(this);" src=http://timesofindia.indiatimes.com/pmtoinavigation/18966112.cms scrolling=no frameborder=0 width=100% height=219px></iframe></div><div id="mod-breadcrumb" class="mod-timesofindiaarticlepagebreadcrumb mod-articlepagebreadcrumb mod-breadcrumb"><span class="bc-text">You are here: </span><span class="home-link"><a  href="http://www.timesofindia.indiatimes.com">Home</a></span><span class="bread-crumb-separator">></span><span class="archive-link"><a  href="/">Collections</a></span><span class="bread-crumb-separator">></span><span class="keyword"><a  href="/keyword/india"><strong>India</strong></a></span></div></div><div id="area-center-w-left" class="area"><div id="area-article-side" class="area" style="float:right;"><div id="mod-sm-badge-top" class="mod-timesofindiasocialmedia mod-socialmedia"><div id="mod-sm-badge-top-defer"><script type="text/javascript">/* Javascript deferred */</script></div><div class="addthis_toolbox addthis_default_style" id="mod-sm-badge-top-defer_addthis" style="display:none;"><script type="text/javascript">var addthis_options = "digg, twitter, facebook, stumbleupon, delicious, friendfeed, buzz, slashdot, reddit, mixx, fark, linkedin, aim, google, myspace, newsvine, technorati, tumblr, typepad, wordpress, more";var addthis_exclude = "print";var addthis_pub     = "archivedigger";</script><a addthis:url="http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no" class="addthis_button_email" title="Email"></a><a addthis:url="http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no" class="addthis_button_print" title="Print"></a><a addthis:url="http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no" class="addthis_button_reddit" title="Reddit"></a><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', 'http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no', 'Supreme+Court+restrains+Italian+ambassador+Daniele+Mancini+from+leaving+India');" onmouseout="addthis_close();" onclick="return addthis_sendto();" class="addthis_button_expanded" title="More Choices"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script></div></div><div id="mod-sm-badge" class="mod-timesofindiasocialmedia mod-socialmedia"><div id="mod-sm-badge-defer"><script type="text/javascript">/* Javascript deferred */</script></div><div class="addthis_toolbox addthis_default_style" id="mod-sm-badge-defer_addthis" style="display:none;"><script type="text/javascript">var addthis_options = "digg, twitter, facebook, stumbleupon, delicious, friendfeed, buzz, slashdot, reddit, mixx, fark, linkedin, aim, google, myspace, newsvine, technorati, tumblr, typepad, wordpress, more";var addthis_exclude = "print";var addthis_pub     = "archivedigger";</script><a addthis:url="http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no" class="addthis_button_email" title="Email"></a><a addthis:url="http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no" class="addthis_button_print" title="Print"></a><a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', 'http://timesofindia.indiatimes.com/india/Supreme-Court-restrains-Italian-ambassador-Daniele-Mancini-from-leaving-India/articleshow/18966112.cms?intenttarget=no', 'Supreme+Court+restrains+Italian+ambassador+Daniele+Mancini+from+leaving+India');" onmouseout="addthis_close();" onclick="return addthis_sendto();" class="addthis_button_expanded" title="More Choices"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script></div></div></div><div id="mod-article-header" class="mod-timesofindiaarticleheader mod-articleheader"><h1 class="multi-line-title-1">Supreme Court restrains Italian ambassador Daniele Mancini from leaving India</h1></div><div id="area-article-first-block" class="area"><div id="mod-article-byline" class="mod-timesofindiaarticlebyline mod-articlebyline"><span class="pubdate"><a href=http://timesofindia.indiatimes.com/toireporter/author-Dhananjay-Mahapatra.cms>Dhananjay Mahapatra</a>,  TNN</span><span class="separator"> </span><span>Mar 14, 2013, 11.14AM IST</span></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-rel-ads" class="mod-timesofindiarelatedtopics mod-relatedtopics"><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-rel-ads" class="mod-timesofindiarelatedtopics mod-relatedtopics"><div class="header">Tags:</div><div class="tags-links"><ul><li><a href="http://timesofindia.indiatimes.com/topic/Supreme-Court">Supreme Court</a>|</li><li><a href="http://timesofindia.indiatimes.com/topic/Mancini-(footballer)">Mancini</a>|</li><li><a href="http://timesofindia.indiatimes.com/topic/Daniele-Mancini">Daniele Mancini</a></li></ul></div></div></ul></div><div id="mod-article-image" style="float:right;" class="mod-timesofindiaarticlepageimage mod-articlepageimage mod-articleimage"><div id="mod-article-image-box" style=" width:280px; height:200px;"><ul class="main-image" style=" width:280px; height:200px;"><li style=" width:280px; height:200px;"><a id="mod-article-image-link" class="thickbox" onclick="return false;" target="_blank" href="http://timesofindia.indiatimes.com/photo/18966131.cms" title=" (The Supreme Court on Feb 22 allowed the two naval guards to fly to Italy to vote in the Feb 24-25 national elections.)"><img src="http://timesofindia.indiatimes.com/photo/18966131.cms" title="" alt="" style=" width:280px; height:186.97674418605px;" onerror="pm_imageFailed(this);"/></a></li></ul></div><div class="main-image-info" style="width:275px">(The Supreme Court on Feb&hellip;)</div><script src="/modal/js/lazyload-min.js" type="text/javascript"></script></div><div id="mod-a-body-first-para" style="margin-right: 280px;" class="mod-timesofindiaarticletext mod-articletext"><p>NEW DEHLI: The Supreme Court on Thursday restrained Italian ambassadador Daniele Mancini from leaving India.</p><p> The Supreme Court also issued notice to the Italian ambassador for breach of undertaking by failing to bring back the two naval guards who are facing trial in India for killing two Kerala fishermen.</p><p> The apex court has asked the Italian ambassador to reply to the court by March 18.</p></div></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-ctr-lt-in-top" class="mod-adcpc"><script type="text/javascript"> var adSkipCounter = 0; </script>
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "india italian government envoy";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,9736076169,5372863901,5858161323";
+google_ad_type="text";
+google_image_size="300x250";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="4";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "custom_medium_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=37712121&cat=law+%26+government&pe_id=37712121&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=9736076169&rnccn=g7-Law+%26+Government&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=ctr-lt-in-top", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><div id="mod-a-body-after-first-para" class="mod-timesofindiaarticletextwithadcpc mod-timesofindiaarticletext mod-articletext"><p> The attorney general (AG) mentioned the breach of undertaking before the Chief Justice-headed bench. The AG said government has rejected the March 11 note verbale from Italy conveying its decision not to return the marines to India.</p><p> The AG said government is gravely concerned by the development, more so because it was a violation of the orders of the highest court of India.</p><p> The court also issued notice to the two naval guards through the ambassador.</p><p> Earlier, Daniele Mancini, has said that he will not leave India until he is made persona non grata, meaning an unwelcome person, over the Italian marines row. His statement came amidst reports that India was looking to expel the envoy from the country. "I will not leave this country till a competent authority makes me persona non grata.. I am more than glad to live in this country for years to come," he had said.</p><p> The two naval guards had been allowed to visit their country to participate in the elections there on an undertaking from the envoy.</p><p> The Supreme Court on Feb 22 allowed the two naval guards to fly to Italy to vote in the Feb 24-25 national elections. The apex court was given an undertaking by the ambassador that the marines will return in four weeks to face legal proceedings in India.</p><p> Italy claims the incident occurred in international waters and has been trying to get Latorre and Girone tried in Italian courts, while India contends the shooting occurred in its own territory. In a note on March 6. the Italian government had requested India to set up a meeting at diplomatic level in order to reach an amicable solution of the controversy. The request "is under examination" by India.</p></div><div id="mod-a-body-after-first-para-ad-cpc" class="mod-adcpc">
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "india italian government envoy";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,9736076169,2937121613,5858161323";
+google_ad_type="text";
+google_image_size="600x125";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="2";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "wide_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=37712121&cat=law+%26+government&pe_id=37712121&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=9736076169&rnccn=g7-Law+%26+Government&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=a-body-after-first-para-ad-cpc", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-a-body-after-second-para" class="mod-timesofindiaarticletextwithadcpc mod-timesofindiaarticletext mod-articletext"></div><div id="mod-featured-title" class="mod-text">FEATURED ARTICLES</div><div id="mod-article-image-lt" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2013-03-04/man-woman/31627540_1_sperm-female-egg-female-orgasm"><img src="http://timesofindia.indiatimes.com/photo/5318376.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2013-03-04/man-woman/31627540_1_sperm-female-egg-female-orgasm"><h2>5 Best positions to get pregnant fast</h2></a></div></div></div><div id="mod-article-image-ct" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2012-04-30/diet/30620448_1_organic-diet-lean-meat"><img src="http://timesofindia.indiatimes.com/photo/11461011.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2012-04-30/diet/30620448_1_organic-diet-lean-meat"><h2>7 Day flat belly diet plan</h2></a></div></div></div><div id="mod-article-image-rt" style="float:left;" class="mod-featuredimage tplmodulefeaturedimage mod-homepageimage mod-articleimage"><div class="photowrapper"><a  href="/2013-03-02/fitness/29443274_1_weight-loss-snacks-and-meal-accompaniments-healthy-snack-world"><img src="http://timesofindia.indiatimes.com/photo/8015885.cms" onerror="pm_imageFailedFeatured(this);" ></a></div><div class="text-area"><div class="title"><a  href="/2013-03-02/fitness/29443274_1_weight-loss-snacks-and-meal-accompaniments-healthy-snack-world"><h2>10 Tips for guaranteed weight loss</h2></a></div></div></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-featured-more" class="mod-text">More:</div><div id="area-two-col-1" class="area" style="float:left;"><div id="mod-hp-article-list-1" class="mod-timesofindiaarticles mod-articles"><div class="article"><div class="title"><h2><a title="10 Tips for guaranteed weight loss" href="/2013-03-14/fitness/29443274_1_weight-loss-snacks-and-meal-accompaniments-healthy-snack-world">10 Tips for guaranteed weight loss</a></h2></div></div><div class="article"><div class="title"><h2><a title="3 simple exercises for a flat tummy" href="/2013-02-26/fitness/32410166_1_core-muscles-simple-exercises-legs">3 simple exercises for a flat tummy</a></h2></div></div><div class="article"><div class="title"><h2><a title="20 ways to gain weight fast" href="/2013-02-15/fitness/37100787_1_gain-weight-deadlifts-exercises">20 ways to gain weight fast</a></h2></div></div></div></div><div id="area-two-col-2" class="area" style="float:right;"><div id="mod-hp-article-list-2" class="mod-timesofindiaarticles mod-articles"><div class="article"><div class="title"><h2><a title="How to lose weight without dieting" href="/2012-03-06/health/30390646_1_snack-meal-dieting">How to lose weight without dieting</a></h2></div></div><div class="article"><div class="title"><h2><a title="12 Indian foods that cut fat" href="/2012-08-17/diet/29722185_1_chillies-cholesterol-mustard-oil">12 Indian foods that cut fat</a></h2></div></div><div class="article"><div class="title"><h2><a title="5 Natural tips to prevent hair loss" href="/2013-02-13/beauty/30449632_1_hair-loss-hair-follicles-scalp">5 Natural tips to prevent hair loss</a></h2></div></div></div></div><div class="float" style="clear:both;height:1px;line-height:1px;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="mod-readers-comment" class="mod-readerscomment"><script type="text/javascript">
+            function resizeComment(iframe) {
+                // set the domain to same as nav to fix cross site scripting
+                document.domain = 'indiatimes.com';
+                // get height of their header (drawn different heights if sub sections)
+                var iframes = document.getElementById('mod-readers-comment').getElementsByTagName('iframe');
+                if (iframes == null || iframes.length == 0) return;
+                var header = iframes[0].contentWindow.document.getElementById('cmtMainBox');
+                if (header == null) return;
+                var navHeight = header.offsetHeight;
+                // update the iframe height
+                if (iframe.style.setAttribute) iframe.style.setAttribute('height', navHeight);
+                else iframe.style.height = navHeight + 'px';
+            }
+            </script><iframe onload="resizeComment(this);" src="http://timesofindia.indiatimes.com/pmcomment/18966112.cms" scrolling="no" frameborder="0"  width="630px;"></iframe></div></div><div id="area-left" class="area"><div id="mod-left-sky" class="mod-adcpc">
+<script type="text/javascript"> //<![CDATA[
+  var loc = window.location.href + "";
+  var float = "";
+  google_hints = "india italian government envoy";google_ad_client="pub-3198794349084862";
+google_ad_output="js";
+google_ad_channel="9476698791,9736076169,3471429470,5858161323";
+google_ad_type="text,flash";
+google_image_size="300x250";
+google_safe="high";
+google_feedback="on";
+google_max_num_ads="4";
+google_skip="" + adSkipCounter + "";
+google_adtest="off";
+google_page_url=document.URL;
+
+function google_ad_request_done(ads) {
+  if (ads.length == 0) { return; } // If no ads are returned then dont build the ad block
+  if (ads[0].bidtype == "CPC") { adSkipCounter += ads.length; } // Increment ad skip counter when cpc
+  google_ad_request_done_internal(ads, "", "", "true", "medium_rectangle", "", "", "pgtp=article&kwInURL=true&pi=72&ci=37712121&cat=law+%26+government&pe_id=37712121&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=9736076169&rnccn=g7-Law+%26+Government&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&paidClick=1&placement_id=left-sky", "", "", "", "", "", "ap-TOI_Blended_Ads", "The Times Of India");
+}
+//]]></script>
+<script type="text/javascript" src="/google_ad_request.js.php"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div><div id="mod-ad-stil" class="mod-timesofindiaadstil mod-adstil"><div id='div-gpt-ad-1339494764651-0' style='width:300px; height:250px;'>
+     <script type='text/javascript'>
+        googletag.display('div-gpt-ad-1339494764651-0');
+    </script>
+    </div></div><div id="mod-related-articles" class="mod-relatedarticlessimplelist mod-relatedarticles"><div class="header">RELATED ARTICLES</div><ul><li><a  title="Fishermen's killing: India rejects Italy’s stand..." href="/2013-03-12/india/37650684_1_naval-guards-massimiliano-lattore-latorre-and-girone"><span class="title">Fishermen's killing: India rejects Italy’s stand...</span></a><br /><span class="date">March 12, 2013</span></li><div class="delimiter"></div><li><a  title="SC notice to Centre, Kerala govt on Italian naval guards..." href="/2012-07-19/india/32745949_1_naval-guards-kerala-fishermen-kerala-govt"><span class="title">SC notice to Centre, Kerala govt on Italian naval guards...</span></a><br /><span class="date">July 19, 2012</span></li><div class="delimiter"></div><li><a  title="Supreme Court permits Italian naval guards to go to Italy..." href="/2013-02-22/india/37241706_1_naval-guards-massimiliano-lattore-salvatore-girone"><span class="title">Supreme Court permits Italian naval guards to go to Italy...</span></a><br /><span class="date">February 22, 2013</span></li></ul></div><div id="mod-rel-kw" class="mod-relatedkeywordssimplelist mod-relatedkeywords"><div class="header">IN-DEPTH COVERAGE</div><ul><li><a  href="/keyword/india">India</a></li></ul></div></div><div id="area-bottom" class="area"><div id="mod-ln-bt" class="mod-line"><div style="border-top:3px solid #BE0000; height:1px; width:100%;"></div></center></div><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-bottom-bt" class="area"><div id="mod-logo-footer" style="float:left;" class="mod-text"><a  href="http://timesofindia.indiatimes.com" target="_new" >THE TIMES OF INDIA</a></div><div id="mod-copyright" style="float:left;" class="mod-text">� 2013 Bennett, Coleman & Co. Ltd. All rights reserved</div><div id="mod-kw-index" style="float:right;" class="mod-text"><a  href="/keywords" target="_new" >Index by Keyword</a></div><div id="mod-pipe-bt1" style="float:right;" class="mod-text">|</div><div id="mod-date-index" style="float:right;" class="mod-indexbydate mod-text"><a  href="/2013/mar/14" target="_new" >Index by Date</a></div></div><div class="float" style="clear:both;"><img src="/images/pixel.gif" height="1" width="1" alt="" /></div><div id="area-bottom-bt" class="area"><div id="mod-footer-link-text" style="float:left;" class="mod-text"><a  href="http://www.timesofindia.com" target="_new" >www.timesofindia.com</a></div><div id="mod-feedback" style="float:right;" class="mod-text"><a  href="http://timesofindia.indiatimes.com/feedback.cms" target="_new" >Feedback</a></div><div id="mod-pipe-bt2" style="float:right;" class="mod-text">|</div><div id="mod-privacy" style="float:right;" class="mod-text"><a  href="http://www.indiatimes.com/policyterms/1554651.cms" target="_new"  rel="nofollow" >Privacy Policy</a></div><div id="mod-pipe-bt3" style="float:right;" class="mod-text">|</div><div id="mod-tos" style="float:right;" class="mod-text"><a  href="http://www.indiatimes.com/policyterms/3441503.cms" target="_new"  rel="nofollow" >Terms of Use</a></div><div id="mod-pipe-bt4" style="float:right;" class="mod-text">|</div><div id="mod-advertise-withus" style="float:right;" class="mod-text"><a  href="http://advertise.indiatimes.com" target="_new" >Advertise with us</a></div></div>
+<script type='text/javascript'>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21462242-1']);
+  _gaq.push(['_setVar', 'Template-ap-TOI_Blended_Ads']);
+  _gaq.push(['_setCustomVar', 1, 'Template', 'Template-ap-TOI_Blended_Ads', 3]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-198011-4']);
+ _gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Part 2 add it just before closing body tag -->
+
+<script language="javascript" src="http://timestrends.indiatimes.com/timestrend_v13.js"></script>
+<noscript><img width="1" height="1" src="http://timeslog.indiatimes.com/timeslog.dll/pgcnt?CHUR=articles.timesofindia.indiatimes.com&nojs=1"></noscript>
+
+<!-- End Code for timesofindia.indiatimes.com -->
+
+<script> 
+		    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+		
+			</script><script> 
+		  COMSCORE.beacon({
+		    c1:2,
+		    c2:6036484,
+		    c3:"",
+		    c4:"",
+		    c5:"",
+		    c6:"",
+		    c15:"" });
+		
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&c3=&c4=&c5=&c6=&c15=&cj=1"></noscript>
+
+<script type="text/javascript">
+var _sf_async_config={uid:10538,domain:"articles.timesofindia.indiatimes.com"};
+		(function(){
+		  function loadChartbeat() {	
+	          window._sf_endpt=(new Date()).getTime();
+		    var e = document.createElement('script');
+		    e.setAttribute('language', 'javascript');	
+		    e.setAttribute('type', 'text/javascript');
+		    e.setAttribute('src', (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") + "static.chartbeat.com/js/chartbeat.js");				    document.body.appendChild(e);	
+				  }			
+	  var oldonload = window.onload;		
+	  window.onload = (typeof window.onload != 'function') ?    loadChartbeat : function() {
+		 oldonload(); 
+		loadChartbeat(); };			
+		})();				
+ </script>
+            
+<!-- START Nielsen Online SiteCensus V6.0 --> 
+<!-- COPYRIGHT 2010 Nielsen Online --> 
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js"> 
+</script> 
+<script type="text/javascript"> 
+ var pvar = { cid: "in-timesinternet", content: "0", server: "secure-uk" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script> 
+<noscript> 
+ <div> 
+ <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=in-timesinternet&amp;cg=0&amp;cc=1&amp;ts=noscript"
+ width="1" height="1" alt="" /> 
+ </div> 
+</noscript> 
+<!-- END Nielsen Online SiteCensus V6.0 --> 
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :
+"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-e16aPraesolw6",
+labels:"The Times of India Group.The Times Of India"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-e16aPraesolw6.gif" border="0"
+height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+        
+               <!-- BEGIN EFFECTIVE MEASURE CODE -->
+		<!-- COPYRIGHT EFFECTIVE MEASURE -->
+		<script type="text/javascript">
+		    (function() {
+		        var em = document.createElement('script'); em.type = 'text/javascript';
+			em.async = true;
+		        em.src = ('https:' == document.location.protocol ? 'https://in-ssl' :
+				'http://in-cdn') + '.effectivemeasure.net/em.js';
+				        var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(em, s);
+		     })();
+		</script>
+		<noscript>
+		    <img src="//in.effectivemeasure.net/em_image" alt=""
+				style="position:absolute; left:-5px;" />
+		</noscript>
+	      <!--END EFFECTIVE MEASURE CODE -->
+       </div></div><!-- Layout ends --><script type="text/javascript">
+                      //<![CDATA[
+                      document.write("<iframe onload=\"params='"+window.tracSessParams+"&pgtp=article&kwInURL=true&pi=72&ci=37712121&cat=law+%26+government&pe_id=37712121&tv=ap-TOI_Blended_Ads&toi_nav_type=full&rna=pub-3198794349084862&rn=g&rnrci=9476698791&rnrcn=g7-TOI-Property&rncci=9736076169&rnccn=g7-Law+%26+Government&rnpci=&rnpcn=&rntci=&rntcn=&rnlci=5858161323&rnlcn=5858161323&rnp=c&rt=cpc&pageLoad=1';tracker();params='';\" frameborder=\"0\" width=\"0\" height=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"position:absolute;display:none;overflow-x:hidden;overflow-y:scroll;\"></iframe>");
+                      //]]>
+                    </script></body></html>

@@ -1,0 +1,11 @@
+1. Distance between cities
+	http://www.distancebetween.in/
+	http://www.mapsofindia.com/distances
+	http://www.mustseeindia.com/distances?from=surat&to=porbandar
+
+2. Dictionary
+	http://dictionary.reference.com/browse/talent
+	http://dictionary.reference.com/browse/talent?s=t
+	http://dictionary.cambridge.org/dictionary/british/talent_1?q=talent
+	http://oxforddictionaries.com/definition/english/talent?q=talent
+
